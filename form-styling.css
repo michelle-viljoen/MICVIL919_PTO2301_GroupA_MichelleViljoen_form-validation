@@ -1,0 +1,59 @@
+
+
+  
+li { 
+list-style: none;
+padding: 15px;
+}
+input[type=text] {
+    position:absolute;
+left: 150px;}
+input[type=password] {
+    position:absolute;
+    left: 150px;}
+input[type=email] {
+    position:absolute;
+    left: 150px;}
+    input[select=country] {
+        position:absolute;
+        left: 150px;}
+        input[type=number] {
+            position:absolute;
+            left: 150px;
+        }
+         select {
+            position:absolute;
+            left: 150px;
+        }
+    
+        textarea {
+            position:absolute;
+            left: 150px;
+        }
+
+        ul {
+         margin:10px;
+         padding: 20px;
+           left: 100px ;
+           
+        }
+        input[type=submit] {
+        position:relative;
+        }
+
+        label.sex {
+padding-right: 60px;
+        }
+
+        label.language {
+            padding-right: 20px;
+        }
+        input[type=submit] {
+            position: absolute;
+            left: 300px;
+            bottom: 50px;
+        }
+       
+
+
+
